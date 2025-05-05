@@ -12,7 +12,7 @@ Develop sales programs for states with lower revenues. The head of sales and mar
 Analyze the sales data of the company for the fourth quarter in Australia, examining it on a state-by-state basis. Provide insights to assist the company in making data-driven decisions for the upcoming year.
 
 ## Dataset 
-[AusApparalSales4thQrt2020.csv](/.AusApparalSales4thQrt2020.csv)
+[AusApparalSales4thQrt2020.csv](./AusApparalSales4thQrt2020.csv)
 
 ## Project Execution
 To address the stated objectives, I conducted a detailed exploratory and visual analysis of the Q4 sales data using Python. The analysis included:
